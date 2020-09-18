@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on open-source project - [Programmers Only](https://github.com/Programmers-Only-Group)
+- 🌱 I’m currently learning TypeScript
+- ⚡ I'm looking for a first job
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TomaszKorenberg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **TomaszKorenberg/TomaszKorenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
