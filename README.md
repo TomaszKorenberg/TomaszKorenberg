@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on open-source project - [Programmers Only](https://github.com/Programmers-Only-Group)
-- 🌱 I’m currently learning TypeScript
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TomaszKorenberg)](https://github.com/anuraghazra/github-readme-stats)
 
